@@ -64,7 +64,6 @@ nav:
   - 绩点技术与工程:
       - 概览: academics/index.md
       - 平均学分绩点（GPA）: academics/gpa.md
-      - 注解: academics/gpa-notes.md
       - 关于选课: academics/course-selection.md
       - 学习方法:
           - 概览: academics/study-methods/index.md
@@ -74,7 +73,7 @@ nav:
           - 大二下: academics/study-methods/sophomore-spring.md
           - 大三上: academics/study-methods/junior-fall.md
           - 大三下: academics/study-methods/junior-spring.md
-      - D 课经验: academics/d-course-experience.md
+      - 关于 D 课: academics/d-courses.md
       - 关于 E 课: academics/e-courses.md
   - 学生工作与水课概论:
       - 概览: student-work/index.md
