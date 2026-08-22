@@ -55,3 +55,54 @@ markdown_extensions:
 
 nav:
   - 首页: index.md
+  - 前言与说明:
+      - 编者序: meta/editorial.md
+      - 免责声明: meta/disclaimer.md
+      - 其他资料:
+          - 概览: resources/index.md
+      - 序言: meta/preface.md
+  - 绩点技术与工程:
+      - 概览: academics/index.md
+      - 平均学分绩点（GPA）: academics/gpa.md
+      - 注解: academics/gpa-notes.md
+      - 关于选课: academics/course-selection.md
+      - 学习方法:
+          - 概览: academics/study-methods/index.md
+          - 大一上: academics/study-methods/freshman-fall.md
+          - 大一下: academics/study-methods/freshman-spring.md
+          - 大二上: academics/study-methods/sophomore-fall.md
+          - 大二下: academics/study-methods/sophomore-spring.md
+          - 大三上: academics/study-methods/junior-fall.md
+          - 大三下: academics/study-methods/junior-spring.md
+      - D 课经验: academics/d-course-experience.md
+      - 关于 E 课: academics/e-courses.md
+  - 学生工作与水课概论:
+      - 概览: student-work/index.md
+      - 化学学院的学生组织:
+          - 概览: student-work/organizations/index.md
+          - 化学学院团委: student-work/organizations/youth-league-committee.md
+          - 化学学院学生会: student-work/organizations/student-union.md
+      - 怎样“水课”: student-work/easy-courses.md
+      - 学生工作和正常生活的平衡: student-work/work-life-balance.md
+      - 怎么做推送: student-work/social-media-posts.md
+      - 怎么拍照: student-work/photography.md
+      - 志愿时长去哪里水: student-work/volunteer-hours.md
+  - 大学竞赛与化学科研:
+      - 概览: competitions-research/index.md
+      - 有哪些竞赛（简要介绍）:
+          - 概览: competitions-research/competitions/index.md
+          - 数学建模: competitions-research/competitions/mathematical-modeling.md
+      - 化学的主要方向: competitions-research/chemistry-directions.md
+      - 去哪里做表征: competitions-research/characterization.md
+      - 平衡科研与绩点: competitions-research/research-gpa-balance.md
+  - 生活小知识:
+      - 概览: life/index.md
+      - 如何使用 AI: life/ai.md
+      - 化院的楼都在哪里: life/buildings.md
+      - 去哪里找和听公能讲座: life/lectures.md
+      - 食堂饭菜推荐: life/canteen.md
+      - 周边餐饮推荐: life/nearby-restaurants.md
+      - 速食攻略: life/quick-meals.md
+      - 考试突击概论: life/exam-cramming.md
+  - 学长学姐的留言部分:
+      - 概览: messages/index.md
