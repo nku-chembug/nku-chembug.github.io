@@ -1,0 +1,53 @@
+<h2 id="__comments">评论</h2>
+
+<script
+  src="https://giscus.app/client.js"
+  data-repo="nku-chembug/nku-chembug.github.io"
+  data-repo-id="R_kgDOUAR6Eg"
+  data-category="Announcements"
+  data-category-id="DIC_kwDOUAR6Es4DD8bR"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="0"
+  data-emit-metadata="0"
+  data-input-position="top"
+  data-theme="preferred_color_scheme"
+  data-lang="zh-CN"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async
+></script>
+
+<script>
+  var giscus = document.querySelector("script[src*=giscus]")
+  var palette = __md_get("__palette")
+
+  if (palette && typeof palette.color === "object") {
+    var theme = palette.color.scheme === "slate"
+      ? "transparent_dark"
+      : "light"
+    giscus.setAttribute("data-theme", theme)
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    var toggle = document.querySelector("[data-md-component=palette]")
+
+    if (!toggle) return
+
+    toggle.addEventListener("change", function () {
+      var palette = __md_get("__palette")
+      var frame = document.querySelector(".giscus-frame")
+
+      if (!palette || typeof palette.color !== "object" || !frame) return
+
+      var theme = palette.color.scheme === "slate"
+        ? "transparent_dark"
+        : "light"
+
+      frame.contentWindow.postMessage(
+        { giscus: { setConfig: { theme: theme } } },
+        "https://giscus.app"
+      )
+    })
+  })
+</script>

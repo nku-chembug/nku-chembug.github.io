@@ -34,8 +34,8 @@
 
 关于往年题，在往年资料里面会有，可以找学长学姐要。学有遗力可以阅读housecroft，这本书对无机化合物的结构相关问题有更详尽的阐述，当然如果从大三无机化学的学习角度来看，更建议读南开出版的《无机化学》。
 
-<img src="../images/pic3.png" style="zoom:30%;" />
+<img src="../images/pic3.png" style="zoom:50%;" />
 
-<img src="../images/pic4.png" style="zoom:30%;" />
+<img src="../images/pic4.png" style="zoom:50%;" />
 
 ## 无机化学实验 2-1
