@@ -3,7 +3,7 @@ site_description: 面向化区同学的学习、科研与生活 Wiki
 site_url: https://nku-chembug.github.io/
 
 repo_url: https://github.com/nku-chembug/nku-chembug.github.io
-repo_name: nku-chembug/nku-chembug.github.io
+repo_name: nku-chembug.github.io
 edit_uri: edit/main/docs/
 
 theme:
@@ -25,14 +25,14 @@ theme:
       accent: cyan
       toggle:
         icon: material/brightness-7
-        name: 切换到深色模式
+        name: 切换深色模式
 
     - scheme: slate
       primary: teal
       accent: cyan
       toggle:
         icon: material/brightness-4
-        name: 切换到浅色模式
+        name: 切换浅色模式
 
 plugins:
   - search:
@@ -95,7 +95,7 @@ nav:
       - 去哪里做表征: competitions-research/characterization.md
       - 平衡科研与绩点: competitions-research/research-gpa-balance.md
   - 生活小知识:
-      - 概览: life/index.md
+      - 杂谈: life/tittle-tattle.md
       - 如何使用 AI: life/ai.md
       - 化院的楼都在哪里: life/buildings.md
       - 去哪里找和听公能讲座: life/lectures.md
