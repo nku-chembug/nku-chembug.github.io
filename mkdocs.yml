@@ -56,11 +56,10 @@ markdown_extensions:
 nav:
   - 首页: index.md
   - 前言与说明:
-      - 编者序: meta/editorial.md
+      - 序言: meta/editorial.md
       - 免责声明: meta/disclaimer.md
       - 其他资料:
           - 概览: resources/index.md
-      - 序言: meta/preface.md
   - 绩点技术与工程:
       - 概览: academics/index.md
       - 平均学分绩点（GPA）: academics/gpa.md
