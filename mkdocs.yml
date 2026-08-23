@@ -10,6 +10,8 @@ theme:
   name: material
   custom_dir: overrides
   language: zh
+  logo: assets/chembug-logo-wordmark.png
+  favicon: assets/chembug-logo-v2.png
   features:
     - navigation.tabs
     - navigation.sections

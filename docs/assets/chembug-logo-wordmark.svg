@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 1100 1250"
+     role="img"
+     aria-labelledby="logo-title">
+  <title id="logo-title">NKU-ChemBug</title>
+  <defs>
+    <linearGradient id="wordmark-gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#079b8d"/>
+      <stop offset="1" stop-color="#079be5"/>
+    </linearGradient>
+  </defs>
+
+  <image x="-145"
+         y="0"
+         width="1390"
+         height="927"
+         preserveAspectRatio="none"
+         href="chembug-logo-symbol.png"
+         xlink:href="chembug-logo-symbol.png"/>
+
+  <text x="550"
+        y="1120"
+        text-anchor="middle"
+        fill="url(#wordmark-gradient)"
+        font-family="Aptos, Segoe UI, Arial Rounded MT Bold, Arial, sans-serif"
+        font-size="132"
+        font-weight="700"
+        letter-spacing="1">NKU-ChemBug</text>
+</svg>
