@@ -59,6 +59,10 @@ markdown_extensions:
 extra_javascript:
   - javascripts/mathjax.js
   - javascripts/vendor/mathjax/tex-chtml.js
+  - https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - 首页: index.md
