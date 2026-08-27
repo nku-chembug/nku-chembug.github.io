@@ -70,6 +70,7 @@ nav:
   - 首页: index.md
   - 前言与说明:
       - 序言: meta/editorial.md
+      - 参与共建: meta/contributing.md
       - 免责声明: meta/disclaimer.md
       - 其他资料:
           - 概览: resources/index.md
@@ -97,7 +98,8 @@ nav:
           - 化学学院学生科技创新协会: student-work/chem-organizations/technology-association.md
           - 化学学院杨石先团校: student-work/chem-organizations/ysxtx.md
       - 校级学生组织: 
-        - 概览: student-work/school-organization/index.md
+          - 概览: student-work/school-organization/index.md
+          - 团委社会实践与志愿服务督导中心: student-work/school-organization/volunteer-center.md
       - 怎样“水课”: student-work/easy-courses.md
       - 学生工作和正常生活的平衡: student-work/work-life-balance.md
       - 怎么做推送: student-work/social-media-posts.md
