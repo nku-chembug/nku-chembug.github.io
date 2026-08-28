@@ -1,0 +1,17 @@
+append_unmatched: true
+
+nav:
+  - 首页: index.md
+  - 资料仓库: repositories.md
+  - 前言与说明:
+      - 序言: meta/editorial.md
+      - 参与共建: meta/contributing.md
+      - 免责声明: meta/disclaimer.md
+      - glob: "meta/*.md"
+        ignore_no_matches: true
+      - 其他资料: resources
+  - 绩点技术与工程: academics
+  - 学生工作与水课概论: student-work
+  - 大学竞赛与化学科研: competitions-research
+  - 生活小知识: life
+  - 学长学姐的留言部分: messages
