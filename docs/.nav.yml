@@ -2,7 +2,6 @@ append_unmatched: true
 
 nav:
   - 首页: index.md
-  - 资料仓库: repositories.md
   - 前言与说明:
       - 序言: meta/editorial.md
       - 参与共建: meta/contributing.md
@@ -15,3 +14,4 @@ nav:
   - 大学竞赛与化学科研: competitions-research
   - 生活小知识: life
   - 学长学姐的留言部分: messages
+  - 资料仓库: repositories.md
